@@ -13,7 +13,7 @@ The following will also be deployed:
 
 ##### Requirements
 - [docker-compose](https://docs.docker.com/compose/install/)
-- [kubectl](http://storage.googleapis.com/kubernetes-release/release/v1.1.7/bin/linux/amd64/kubectl)
+- [kubectl](http://storage.googleapis.com/kubernetes-release/release/v1.2.2/bin/linux/amd64/kubectl)
 
 On Linux we'll run Kubernetes using a local Docker Engine. To launch the cluster:
 
