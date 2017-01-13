@@ -1,4 +1,9 @@
-# [Calico](http://projectcalico.org) and [Kubernetes](http://kubernetes.io) using [Docker Compose](https://www.docker.com/docker-compose)
+
+# Deprecated
+## For the latest guides to install Calico + Kubernetes, please see http://docs.projectcalico.org
+
+
+# [Deprecated] [Calico](http://projectcalico.org) and [Kubernetes](http://kubernetes.io) using [Docker Compose](https://www.docker.com/docker-compose)
 
 ## Starting the Cluster
 This guide installs an all-in-one single node Kubernetes cluster using Docker on Linux or OSX.
